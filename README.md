@@ -20,22 +20,22 @@ Jupyter Notebook
 
 # Steps Performed
 
-# Data Loading
+Data Loading
 Imported dataset using Python (Pandas)
 Connected to SQL databases for querying
-# Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 Analyzed data distribution and patterns
 Identified trends, outliers, and missing values
-# Data Cleaning
+Data Cleaning
 Handled missing and duplicate records
 Corrected data types and standardized values
-# SQL Analysis
+SQL Analysis
 Wrote SQL queries for aggregation, filtering, joins, and insights
 Extracted key metrics from the database
-# Dashboard Creation
+Dashboard Creation
 Built an interactive Power BI dashboard
 Used filters, charts, KPIs, and slicers for insights
-# Reporting & Presentation
+Reporting & Presentation
 Created a detailed report summarizing insights
 Designed a PPT using Gamma for stakeholder presentation
 
